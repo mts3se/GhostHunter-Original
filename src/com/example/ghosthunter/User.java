@@ -9,13 +9,13 @@ public class User
 	private double userYLocation;
 	
 	
-	public User(String name)
-	{
-		this.name = name;
-		this.points = 0;
-		this.life = 10;
-	}
-	
+//	//public User(String name)
+//	{
+//		this.name = name;
+//		this.points = 0;
+//		this.life = 10;
+//	}
+//	
 	
 	public int getPoints()
 	{
