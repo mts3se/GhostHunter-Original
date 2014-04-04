@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GhostHunter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="school">University of Virginia</string>
+    <string name="className">CS 2110</string>
+    <string name="team">Team 102 002</string>
+    <string name="name1">Elise Rossi egr2qz</string>
+    <string name="name2">Michelle Stone mts3se</string>
+    <string name="name3">Arthur Pommersheim ajp2db</string>
+    <string name="name4">Will Clougherty wbc4bf</string>
+    <string name="logo">Ghost Picture</string>
+    <string name="logo2">Second Ghost Picture</string>
+    <string name="splashPic">Team Information</string>
+    <string name="title_activity_Splash_Screen">Splash String</string>
+</resources>
